@@ -1,0 +1,29 @@
+{
+    "AirCraftLearning": {
+        "checkpoints": [
+            {
+                "steps": 9005,
+                "file_path": "results\\airv1.0\\AirCraftLearning\\AirCraftLearning-9005.onnx",
+                "reward": -1.0031825518313515,
+                "creation_time": 1652562996.5651155,
+                "auxillary_file_paths": [
+                    "results\\airv1.0\\AirCraftLearning\\AirCraftLearning-9005.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 9005,
+            "file_path": "results\\airv1.0\\AirCraftLearning.onnx",
+            "reward": -1.0031825518313515,
+            "creation_time": 1652562996.5651155,
+            "auxillary_file_paths": [
+                "results\\airv1.0\\AirCraftLearning\\AirCraftLearning-9005.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
